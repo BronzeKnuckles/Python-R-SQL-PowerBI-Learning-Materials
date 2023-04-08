@@ -44,6 +44,6 @@
 ### [DataCamp Cheeet Sheets](https://www.datacamp.com/resources) - Use the filters to find the cheat sheets you want :thumbsup:
 
 
-Also Checkout DataCamp :smile: :ok_hand:
-So far, LinkedIn learning seems good.
+Also Checkout DataCamp :smile: 
+So far, LinkedIn learning seems good :ok_hand:
 
