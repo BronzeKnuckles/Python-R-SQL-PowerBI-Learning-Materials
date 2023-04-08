@@ -41,6 +41,9 @@
  - Working on it :smile:
 
 
+### [DataCamp Cheeet Sheets](https://www.datacamp.com/resources) - Use the filters to find the sheet sheets you want :thumbsup:
+
+
 Also Checkout DataCamp :smile: :ok_hand:
 So far, LinkedIn learning seems good.
 
