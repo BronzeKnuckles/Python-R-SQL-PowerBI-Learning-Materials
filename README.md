@@ -34,14 +34,14 @@
  - [FireShip.io](https://youtu.be/Cz3WcZLRaWc) My personal favorite :heart: 
 
 
- - CheatSheets
+ - CheatSheets :books:
      - https://github.com/enochtangg/quick-SQL-cheatsheet/blob/e9e601489ad8f052b86882f6789418289a02c3c8/README.md
 
 ### PowerBI
  - Working on it :smile:
 
 
-### [DataCamp Cheeet Sheets](https://www.datacamp.com/resources) - Use the filters to find the cheat sheets you want :thumbsup:
+### [DataCamp Cheeet Sheets](https://www.datacamp.com/resources) - Use the filters to find the cheat sheets you want :books: :thumbsup:
 
 
 Also Checkout DataCamp :smile: 
