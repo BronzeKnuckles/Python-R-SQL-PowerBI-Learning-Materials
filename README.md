@@ -24,7 +24,7 @@
 ### R Links:
  - [LinkedIn Learning - Learning R](https://www.linkedin.com/learning/learning-r-18748884)
  - [CodeAcademy - Learn R (Inbuilt-Interactive)](https://www.codecademy.com/learn/learn-r)
-
+ - [Learning Statitics with R (BOOK)](https://learningstatisticswithr.com/book/)
 
 
 ### SQL Links:
