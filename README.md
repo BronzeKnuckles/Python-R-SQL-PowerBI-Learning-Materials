@@ -38,12 +38,11 @@
      - https://github.com/enochtangg/quick-SQL-cheatsheet/blob/e9e601489ad8f052b86882f6789418289a02c3c8/README.md
 
 ### PowerBI
- - Working on it :smile:
+ -[Microsoft's Learning Paths for PowerBI](https://learn.microsoft.com/en-us/training/browse/?products=power-bi&resource_type=learning%20path)
 
 
 ### [DataCamp Cheeet Sheets](https://www.datacamp.com/resources) - Use the filters to find the cheat sheets you want :books: :thumbsup:
 
 
 Also Checkout DataCamp :smile: 
-So far, LinkedIn learning seems good :ok_hand:
 
