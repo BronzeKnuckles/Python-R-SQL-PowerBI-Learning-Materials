@@ -7,7 +7,7 @@
 
 #### How to effectively learn to code: [The Best Way To Learn How To Code - Reddit](https://www.reddit.com/r/learnprogramming/comments/5zc24o/the_best_way_to_learn_how_to_code/) 
 
-
+### DataCamp is really good and SLC will give us access, but here are some additional resouces:
 
 
 ### Python Links:
