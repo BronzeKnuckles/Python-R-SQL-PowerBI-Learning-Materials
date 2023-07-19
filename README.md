@@ -44,7 +44,7 @@
    - [ Full PowerBI Playlist ](https://www.youtube.com/watch?v=H84UJn1CiWo&list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX&pp=iAQB)
    - [ Power BI End to End Project ](https://youtu.be/EpQS89RFJ8M?list=PL6Omre3duO-NB322ACbm4_HfdX_V02ugn)
   
-#### [ Use ChatGPT to learn to code - the right way ](Use ChatGPT to learn to code - the right way)
+#### [Use ChatGPT to learn to code - the right way](https://youtu.be/X_TbI4fueBI)
 ### [DataCamp Cheeet Sheets](https://www.datacamp.com/resources) - Use the filters to find the cheat sheets you want :books: :thumbsup:
 
 
